@@ -9,4 +9,4 @@ A tic-tac-toe game designed using bash script.
 
 * Run the ttt.sh file from your terminal.
 
-* You make the first move, by choosing one of the boxes from 1 to 9.
+* The user makes the first move, by choosing one of the boxes from 1 to 9.
